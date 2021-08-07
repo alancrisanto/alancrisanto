@@ -1,13 +1,15 @@
 <h3>Looking for a job</h3>
-<h2> Hello World! I'm Alan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello World! I'm Alan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h4>Lima, Perú</h4>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning HTMl5, CSS3 and Python 3.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Applied Technology
-- ⚡ &nbsp; Fun fact: I love to watching anime and play guitar.
+- 🎓 &nbsp; I'm pursuing a Bachelor's degree in Applied Technology
+- 🌱 &nbsp; I'm looking for an opportunity as a web developer.
+- 🤔 &nbsp; Exploring new technologies.
+- ⚡ &nbsp; Fun fact: I love to watching anime, travel and play guitar.
 
 <h3>🛠 Tech Stack</h3>
 
