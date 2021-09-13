@@ -9,7 +9,7 @@
 - 🎓 &nbsp; I'm pursuing a Bachelor's degree in Applied Technology
 - 🌱 &nbsp; I'm looking for an opportunity as a web developer.
 - 🤔 &nbsp; Exploring new technologies.
-- ⚡ &nbsp; Fun fact: I love to watching anime, travel and play guitar.
+- ⚡ &nbsp; Fun fact: I love to watch anime, travel and play guitar.
 
 <h3>🛠 Tech Stack</h3>
 
