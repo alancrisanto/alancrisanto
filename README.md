@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning HTML5, CSS3 and Python 3.
+- 🔭 &nbsp; I’m currently learning HTML5, CSS3, JavaScrip and Python 3.
 - 🎓 &nbsp; I'm pursuing a Bachelor's degree in Applied Technology
 - 🌱 &nbsp; I'm looking for an opportunity as a web developer.
 - 🤔 &nbsp; Exploring new technologies.
