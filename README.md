@@ -40,8 +40,8 @@
 
 <br>
 
-<a align="left" href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=alancrisanto&show_icons=true" alt="dereknguyen269" />
+<a align="left" href="#alancrisanto-title">
+  ![alancrisanto's github stats](https://github-readme-stats.vercel.app/api?username=alancrisanto&show_icons=true&theme=dracula)
 </a>
 
 <br>
