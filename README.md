@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Experience with:
-  -    HTML5, CSS3, JavaScript, MongoDB, React and Python 3.
+  -    HTML5, CSS3, JavaScript, MongoDB, Vue Js and Python 3.
 - 🔭 &nbsp; I´m currently learning:
   -   Angular, Java, Quality Control Automation at Globant University.
 - 🎓 &nbsp; I'm pursuing a Bachelor's degree in Applied Technology.
