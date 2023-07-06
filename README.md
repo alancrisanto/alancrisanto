@@ -5,9 +5,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning:
+- 🔭 &nbsp; Experience with:
   -    HTML5, CSS3, JavaScript, MongoDB, React and Python 3.
-- 🎓 &nbsp; I'm pursuing a Bachelor's degree in Applied Technology
+- 🔭 &nbsp; I´m currently learning:
+  -   Angular, Java, Quality Control Automation at Globant University.
+- 🎓 &nbsp; I'm pursuing a Bachelor's degree in Applied Technology.
 - 🌱 &nbsp; I'm looking for an opportunity as a web developer.
 - 🤔 &nbsp; Exploring new technologies.
 - ⚡ &nbsp; Fun fact: I love to watch anime, travel and play guitar.
