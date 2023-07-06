@@ -41,7 +41,7 @@
 <br>
 
 <a align="left" href="#dereknguyen269-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=alancrisanto&show_icons=true" alt="dereknguyen269" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alancrisanto&show_icons=true" alt="dereknguyen269" />
 </a>
 
 ⭐️ from [@alancrisanto](https://github.com/alancrisanto)
