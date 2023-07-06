@@ -40,6 +40,10 @@
 
 <br>
 
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=alancrisanto&show_icons=true" alt="dereknguyen269" align="right" />
+</a>
+
 ⭐️ from [@alancrisanto](https://github.com/alancrisanto)
 <!---
 alancrisanto/alancrisanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
