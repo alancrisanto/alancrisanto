@@ -40,9 +40,9 @@
 
 <br>
 
-<a align="left" href="#alancrisanto-title">
+
   ![alancrisanto's github stats](https://github-readme-stats.vercel.app/api?username=alancrisanto&show_icons=true&theme=dracula)
-</a>
+
 
 <br>
 
